@@ -1,2 +1,2 @@
-# gan-variations
-Collection of jupyter notebooks with various gan implementations.
+# gan-pytorch-mnist
+Gan architectures implemented in pytorch and tested on the mnist hand-written digit dataset.
